@@ -1,6 +1,4 @@
-body {
-    color: white
-}
+body,
 
 html {
     color: white;
@@ -8,7 +6,7 @@ html {
 }
 
 #hero {
-    height: 100vh;
+    min-height: 100vh;
     background: #141E30;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #243B55, #141E30);
